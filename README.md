@@ -4,14 +4,12 @@ AI-Powered Income Protection for Food Delivery Workers
 📌 Problem Statement
 
 Food delivery partners working with platforms like Zomato and Swiggy depend on daily earnings.
-However, external factors such as heavy rain, extreme heat, pollution, or curfews can reduce their working hours and directly impact their income.
-
-Currently, there is no system to compensate them for this income loss.
+However, external factors such as heavy rain, extreme heat, pollution, and curfews can reduce their working hours and directly impact their income.
+Currently, there is no reliable system to compensate them for this income loss.
 
 💡 Proposed Solution
 
 GigShield is an AI-based parametric insurance platform that protects delivery workers against loss of income caused by external disruptions.
-
 The system automatically detects such disruptions and provides instant payouts without requiring manual claims.
 
 👤 Target Users
@@ -24,16 +22,12 @@ Urban gig workers
 
 Weekly Insurance Model
 Premium is calculated on a weekly basis to match worker earnings.
-
 AI-Based Risk Assessment
 Calculates premium based on location, weather patterns, and risk level.
-
 Automatic Claim Triggering
-No manual claims required. Claims are triggered automatically.
-
+Claims are triggered automatically without any manual request.
 Instant Payout (Simulated)
 Workers receive compensation immediately after disruption detection.
-
 Fraud Detection System
 Prevents fake claims using anomaly detection and validation checks.
 
@@ -98,32 +92,27 @@ Web-based platform for easy access and faster development.
 User registers
 Location is detected
 Weekly premium is calculated
-
 User subscribes
-
 System monitors disruptions
 Trigger occurs
 Claim auto-approved
 Instant payout processed
 
 📅 Development Plan
-Phase 1:
 
+Phase 1 :
 Research and planning
 README and idea validation
 
-Phase 2:
-
+Phase 2 :
 Build core modules
 Implement premium calculation
 Add claim system
 
-Phase 3:
-
+Phase 3 :
 Fraud detection
 Payment simulation
 Dashboard and analytics
 
-🚀 Goal
-
+🚀 Goal :
 To build a simple and effective system that ensures delivery workers do not lose income due to uncontrollable external conditions.
